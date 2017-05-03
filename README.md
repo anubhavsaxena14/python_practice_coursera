@@ -1,5 +1,5 @@
 # python_practice_coursera
-This repository contains all the assignments completed during Programming for Everybody and Applied Data Science with Python Specialization.
+This repository contains all the assignments completed during Programming for Everybody and Applied Data Science with Python Specializations.
 
 
 Courses:
