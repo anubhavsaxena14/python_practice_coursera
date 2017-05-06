@@ -8,5 +8,3 @@ Courses:
 Programming for Everybody(Getting started with Python) - University of Michigan
 
 Python Data Structures - University of Michigan
-
-Introduction to Data Science in Python - University of Michigan
